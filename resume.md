@@ -17,7 +17,7 @@ Professional experience
 
 __Ruby developer at [OnLife](http://onlifegroup.com/)__  
 __December 2012 - Present__   
-Back end developer, responsible for developing and maintaing services in service-oriented architecture.  
+Back end developer.
 Technologies used include Goliath, Grape, Redis, MongoDB, AMQP, Faye.
 
 
@@ -40,5 +40,5 @@ Operating Systems: Linux (Debian, Ubuntu), Mac OS X
 Programming Editors: Vim, Sublime text   
 Source Code Control: Git   
 Databases: PostgreSQL, Redis, MongoDB   
-Other: Ruby on Rails, RSpec, EventMachine, RabbitMQ, Grape   
+Other: Ruby on Rails, RSpec, RabbitMQ, Grape   
 
