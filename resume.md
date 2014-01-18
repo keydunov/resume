@@ -15,6 +15,7 @@ Professional experience
 __Ruby developer at [Uchi.ru](http://uchi.ru/)__  
 __March 2013 - Present__   
 Full stack developer, working on [uchi.ru](http://uchi.ru/) and [happynumbers.com](http://happynumbers.com/)
+
 Technologies used include Ruby on Rails, NodeJs, PostgreSQL, Ember.js.
 
 
