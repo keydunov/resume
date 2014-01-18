@@ -7,16 +7,19 @@ Ruby developer
 Looking for an opportunity to work with a world class team, build great products and always be learning.  
 
 You can find some of my work on Github at: [https://github.com/keydunov](https://github.com/keydunov)      
-I am also a co-founder of food delivery startup [FoodPoint](http://food-point.ru), where i am responsible
-for back end development.
 
-While I work mostly as Ruby developer, I’m also expanding my skills into iPhone development.
 
 Professional experience
 ----------------------
 
+__Ruby developer at [Uchi.ru](http://uchi.ru/)__  
+__March 2013 - Present__   
+Full stack developer, working on [uchi.ru](http://uchi.ru/) and [happynumbers.com](http://happynumbers.com/)
+Technologies used include Ruby on Rails, NodeJs, PostgreSQL, Ember.js.
+
+
 __Ruby developer at [OnLife](http://onlifegroup.com/)__  
-__December 2012 - Present__   
+__December 2012 - March 2013__   
 Back end developer.
 Technologies used include Goliath, Grape, Redis, MongoDB, AMQP, Faye.
 
@@ -37,8 +40,8 @@ Technology focus
 ----------------
 Programming languages: Ruby, Javascript, SQL, Objective-C  
 Operating Systems: Linux (Debian, Ubuntu), Mac OS X   
-Programming Editors: Vim, Sublime text   
+Programming Editor: Vim
 Source Code Control: Git   
 Databases: PostgreSQL, Redis, MongoDB   
-Other: Ruby on Rails, RSpec, RabbitMQ, Grape   
+Other: Ruby on Rails, Ember.js
 
