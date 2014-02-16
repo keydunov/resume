@@ -1,7 +1,7 @@
 Artyom Keydunov
 ===============
 
-Ruby developer
+Ruby/JS developer
 --------------
 
 Looking for an opportunity to work with a world class team, build great products and always be learning.  
@@ -12,10 +12,10 @@ You can find some of my work on Github at: [https://github.com/keydunov](https:/
 Professional experience
 ----------------------
 
-__Ruby developer at [Uchi.ru](http://uchi.ru/)__  
+__Ruby/Javascript developer at [Uchi.ru](http://uchi.ru/)__  
 __March 2013 - Present__   
 Full stack developer, working on [uchi.ru](http://uchi.ru/) and [happynumbers.com](http://happynumbers.com/)    
-Technologies used include Ruby on Rails, NodeJs, PostgreSQL, Ember.js.
+Technologies used include Ruby on Rails, Node.js, PostgreSQL, Ember.js.
 
 
 __Ruby developer at [OnLife](http://onlifegroup.com/)__  
@@ -43,5 +43,4 @@ Operating Systems: Linux (Debian, Ubuntu), Mac OS X
 Programming Editor: Vim
 Source Code Control: Git   
 Databases: PostgreSQL, Redis, MongoDB   
-Other: Ruby on Rails, Ember.js
-
+Other: Ruby on Rails, Node.js, Ember.js
