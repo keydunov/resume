@@ -20,7 +20,7 @@ Technologies used include Ruby on Rails, Node.js, PostgreSQL, Ember.js.
 
 __Ruby developer at [OnLife](http://onlifegroup.com/)__  
 __December 2012 - March 2013__   
-Back end developer.
+Back-end developer.   
 Technologies used include Goliath, Grape, Redis, MongoDB, AMQP, Faye.
 
 
@@ -40,7 +40,7 @@ Technology focus
 ----------------
 Programming languages: Ruby, Javascript, SQL, Objective-C  
 Operating Systems: Linux (Debian, Ubuntu), Mac OS X   
-Programming Editor: Vim
+Programming Editor: Vim   
 Source Code Control: Git   
 Databases: PostgreSQL, Redis, MongoDB   
 Other: Ruby on Rails, Node.js, Ember.js
