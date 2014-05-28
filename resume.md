@@ -14,20 +14,23 @@ Professional experience
 
 #### Ruby/Javascript developer at [Uchi.ru](http://uchi.ru/)
 __March 2013 - Present__   
-Lead developer for [happynumbers.com](http://happynumbers.com/).
+Lead developer for [HappyNumbers](http://happynumbers.com/).
 Technologies used include Ruby on Rails for web-application, 
 NodeJS for high load service dedicated for gathering user activities data.
 
-_TODO: write about Olympiada plus, high load and EmberJS._
+Responsibilities: 
+ * Leading a team of 2 developers.
+ * Architect, develop and maintain Ruby on Rails web application.
+ * Was responsible for architecting and developing web app for first Moscow mathematical olympiad using Ember.js and Ruby on Rails. 
 
 
 #### Ruby developer at [OnLife](http://onlifegroup.com/)
 __August 2012 - March 2013__   
 Back-end developer.   
-Technologies used include Goliath, Grape, Redis, MongoDB, AMQP, Faye.
+Technologies used include Goliath, EventMachine, Grape, Redis, MongoDB, AMQP, Faye.
 Primary focus was to built highload service-oriented architecture system.
-
-_TODO: describe architecture and usage of EventMachine_
+Responsibilities include architecting and developing service in SOA, such as messaging service, file upload service, services to communicate with external APIs.
+All services were built with EventMachine (Ruby implemention of Pattern Reactor) 
 
 
 #### Freelance, various projescts
