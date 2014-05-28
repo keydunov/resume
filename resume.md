@@ -31,36 +31,37 @@ _TODO: describe architecture and usage of EventMachine_
 
 #### Freelance, various projescts
 __September 2011 - August 2012__  
-[MBAR](http://www.mbar.ru)
+
+##### [MBAR](http://www.mbar.ru)
 Developed, deployed and maintained e-commerce website, php with bitrix cms.
 
-__[Nakover](http://nakover.ru/)__
+##### [Nakover](http://nakover.ru/)
 Ruby on Rails e-commerce web application
 
-__[Buyforlike](http://www.buyforlike.com)__  
+##### [Buyforlike](http://www.buyforlike.com)
 Full stack developer responsible for development and maintaince Ruby on Rails application.   
 
-__[Bodyroom](http://www.bodyroom.com)__
+##### [Bodyroom](http://www.bodyroom.com)
 Backend and frontend for sport platform.
 
-__Backend for mobile application:__
+##### Backend for mobile applications:
   * [Fallster](https://itunes.apple.com/ru/app/fallster/id728374875?mt=8)
 
 
 Technology focus
 ----------------
-Programming languages: Ruby, Javascript
-Operating Systems: Linux (Debian, Ubuntu), Mac OS X   
-Programming Editor: Vim   
-Source Code Control: Git   
-Databases: PostgreSQL, Redis, MongoDB   
-Other: Node.js, Ember.js, Ruby on Rails
+Programming languages: Ruby, Javascript   
+Operating Systems: Linux (Debian, Ubuntu), Mac OS X      
+Programming Editor: Vim     
+Source Code Control: Git     
+Databases: PostgreSQL, Redis, MongoDB     
+Other: Node.js, Ember.js, Ruby on Rails   
 
 
 Other
 -----
 
-Speaker at various dev conferences: 
+Speaker at dev conferences: 
   * [Droidcon 2014](http://ru.droidcon.com/2014/rapid-mobile-apps-development/)
 
 I'm the co-organizer of (WeMakeWeb community)[http://www.meetup.com/WeMakeWeb/]
