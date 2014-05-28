@@ -26,6 +26,7 @@ __August 2012 - March 2013__
 Back-end developer.   
 Technologies used include Goliath, Grape, Redis, MongoDB, AMQP, Faye.
 Primary focus was to built highload service-oriented architecture system.
+
 _TODO: describe architecture and usage of EventMachine_
 
 
@@ -64,10 +65,10 @@ Other
 Speaker at dev conferences: 
   * [Droidcon 2014](http://ru.droidcon.com/2014/rapid-mobile-apps-development/)
 
-I'm the co-organizer of (WeMakeWeb community)[http://www.meetup.com/WeMakeWeb/]
+I'm the co-organizer of [WeMakeWeb community](http://www.meetup.com/WeMakeWeb/).
 
-(Apps4all hackathon absolute winner, awarded by Google, Intel and Microsoft)[http://habrahabr.ru/post/206500/]
+[Apps4all hackathon absolute winner, awarded by Google, Intel and Microsoft](http://habrahabr.ru/post/206500/).
 
-Hack-a-phone hackathon additional (prize winner)[http://hackaphone.ru/city/moscow-final/]
+Hack-a-phone hackathon additional [prize winner](http://hackaphone.ru/city/moscow-final/).
 
 I'm a Google IO 2014 participant as a distinguished developer.
