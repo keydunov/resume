@@ -14,26 +14,36 @@ Professional experience
 
 __Ruby/Javascript developer at [Uchi.ru](http://uchi.ru/)__  
 __March 2013 - Present__   
-Full stack developer, working on [uchi.ru](http://uchi.ru/) and [happynumbers.com](http://happynumbers.com/)    
-Technologies used include Ruby on Rails, Node.js, PostgreSQL, Ember.js.
+Lead developer for [happynumbers.com](http://happynumbers.com/).
+Technologies used include Ruby on Rails for web-application, 
+NodeJS for high load service dedicated for gathering user activities data.
+#TODO: write about Olympiada plus, high load and EmberJS.
 
 
 __Ruby developer at [OnLife](http://onlifegroup.com/)__  
-__December 2012 - March 2013__   
+__August 2012 - March 2013__   
 Back-end developer.   
 Technologies used include Goliath, Grape, Redis, MongoDB, AMQP, Faye.
+Primary focus was to built highload service-oriented architecture system.
+#TODO: describe architecture and usage of EventMachine
 
 
-__Ruby on Rails developer at [Buyforlike](http://www.buyforlike.com)__  
-__September 2012 - December 2012__  
+__Freelance, various projescts__  
+__September 2011 - August 2012__  
+[MBAR](http://www.mbar.ru)
+Developed, deployed and maintained e-commerce website, php with bitrix cms.
+
+[Nakover](http://nakover.ru/)
+Ruby on Rails e-commerce web application
+
+[Buyforlike](http://www.buyforlike.com)__  
 Full stack developer responsible for development and maintaince Ruby on Rails application.   
-Back-end Technologies: Ruby, Ruby on Rails (3.2.x), PostgreSQL.   
-Front-end Technologies: HTML/HAML, CSS/SASS, Javascript/Coffeescript, jQuery, jQuery UI.     
 
-__Web developer at [MBAR](http://www.mbar.ru)__  
-__October 2011 - June 2012__  
-Developed, deployed and maintained e-commerce website.
+[Bodyroom](http://www.bodyroom.com)__
+Backend and frontend for sport platform.
 
+Backend for mobile applications:
+  * [Fallster](https://itunes.apple.com/ru/app/fallster/id728374875?mt=8)
 
 
 Technology focus
@@ -44,3 +54,18 @@ Programming Editor: Vim
 Source Code Control: Git   
 Databases: PostgreSQL, Redis, MongoDB   
 Other: Node.js, Ember.js, Ruby on Rails
+
+
+Other
+-----
+
+Speaker at various dev conferences: 
+  * [Droidcon 2014](http://ru.droidcon.com/2014/rapid-mobile-apps-development/)
+
+I'm the co-organizer of (WeMakeWeb community)[http://www.meetup.com/WeMakeWeb/]
+
+(Apps4all hackathon absolute winner, awarded by Google, Intel and Microsoft)[http://habrahabr.ru/post/206500/]
+
+Hack-a-phone hackathon additional (prize winner)[http://hackaphone.ru/city/moscow-final/]
+
+I'm a Google IO 2014 participant as a distinguished developer.
