@@ -38,9 +38,9 @@ Developed, deployed and maintained e-commerce website.
 
 Technology focus
 ----------------
-Programming languages: Ruby, Javascript, SQL, Objective-C  
+Programming languages: Ruby, Javascript
 Operating Systems: Linux (Debian, Ubuntu), Mac OS X   
 Programming Editor: Vim   
 Source Code Control: Git   
 Databases: PostgreSQL, Redis, MongoDB   
-Other: Ruby on Rails, Node.js, Ember.js
+Other: Node.js, Ember.js, Ruby on Rails
