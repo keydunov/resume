@@ -12,7 +12,7 @@ You can find some of my work on Github at: [https://github.com/keydunov](https:/
 Professional experience
 ----------------------
 
-__Ruby/Javascript developer at [Uchi.ru](http://uchi.ru/)__  
+#### Ruby/Javascript developer at [Uchi.ru](http://uchi.ru/)
 __March 2013 - Present__   
 Lead developer for [happynumbers.com](http://happynumbers.com/).
 Technologies used include Ruby on Rails for web-application, 
@@ -20,7 +20,7 @@ NodeJS for high load service dedicated for gathering user activities data.
 #TODO: write about Olympiada plus, high load and EmberJS.
 
 
-__Ruby developer at [OnLife](http://onlifegroup.com/)__  
+#### Ruby developer at [OnLife](http://onlifegroup.com/)
 __August 2012 - March 2013__   
 Back-end developer.   
 Technologies used include Goliath, Grape, Redis, MongoDB, AMQP, Faye.
@@ -28,21 +28,21 @@ Primary focus was to built highload service-oriented architecture system.
 #TODO: describe architecture and usage of EventMachine
 
 
-__Freelance, various projescts__  
+#### Freelance, various projescts
 __September 2011 - August 2012__  
 [MBAR](http://www.mbar.ru)
 Developed, deployed and maintained e-commerce website, php with bitrix cms.
 
-[Nakover](http://nakover.ru/)
+__[Nakover](http://nakover.ru/)__
 Ruby on Rails e-commerce web application
 
-[Buyforlike](http://www.buyforlike.com)__  
+__[Buyforlike](http://www.buyforlike.com)__  
 Full stack developer responsible for development and maintaince Ruby on Rails application.   
 
-[Bodyroom](http://www.bodyroom.com)__
+__[Bodyroom](http://www.bodyroom.com)__
 Backend and frontend for sport platform.
 
-Backend for mobile applications:
+__Backend for mobile application:__
   * [Fallster](https://itunes.apple.com/ru/app/fallster/id728374875?mt=8)
 
 
