@@ -32,16 +32,16 @@ _TODO: describe architecture and usage of EventMachine_
 #### Freelance, various projescts
 __September 2011 - August 2012__  
 
-##### [MBAR](http://www.mbar.ru)
+__[MBAR](http://www.mbar.ru)__   
 Developed, deployed and maintained e-commerce website, php with bitrix cms.
 
-##### [Nakover](http://nakover.ru/)
+__[Nakover](http://nakover.ru/)__   
 Ruby on Rails e-commerce web application
 
-##### [Buyforlike](http://www.buyforlike.com)
+__[Buyforlike](http://www.buyforlike.com)__  
 Full stack developer responsible for development and maintaince Ruby on Rails application.   
 
-##### [Bodyroom](http://www.bodyroom.com)
+__[Bodyroom](http://www.bodyroom.com)__   
 Backend and frontend for sport platform.
 
 ##### Backend for mobile applications:
