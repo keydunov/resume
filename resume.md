@@ -17,7 +17,8 @@ __March 2013 - Present__
 Lead developer for [happynumbers.com](http://happynumbers.com/).
 Technologies used include Ruby on Rails for web-application, 
 NodeJS for high load service dedicated for gathering user activities data.
-#TODO: write about Olympiada plus, high load and EmberJS.
+
+_TODO: write about Olympiada plus, high load and EmberJS._
 
 
 #### Ruby developer at [OnLife](http://onlifegroup.com/)
@@ -25,7 +26,7 @@ __August 2012 - March 2013__
 Back-end developer.   
 Technologies used include Goliath, Grape, Redis, MongoDB, AMQP, Faye.
 Primary focus was to built highload service-oriented architecture system.
-#TODO: describe architecture and usage of EventMachine
+_TODO: describe architecture and usage of EventMachine_
 
 
 #### Freelance, various projescts
