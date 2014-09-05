@@ -19,7 +19,6 @@ Technologies used include Ruby on Rails for web-application,
 NodeJS for high load service dedicated for gathering user activities data.
 
 Responsibilities: 
- * Leading a team of 2 developers.
  * Architect, develop and maintain Ruby on Rails web application.
  * Was responsible for architecting and developing web app for first Moscow mathematical olympiad using Ember.js and Ruby on Rails. 
 
@@ -73,5 +72,3 @@ I'm the co-organizer of [WeMakeWeb community](http://www.meetup.com/WeMakeWeb/).
 [Apps4all hackathon absolute winner, awarded by Google, Intel and Microsoft](http://habrahabr.ru/post/206500/).
 
 Hack-a-phone hackathon additional [prize winner](http://hackaphone.ru/city/moscow-final/).
-
-I'm a Google IO 2014 participant as a distinguished developer.
