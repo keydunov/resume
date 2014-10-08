@@ -19,9 +19,9 @@ Technologies used include Ruby on Rails for web-application,
 NodeJS for high load service dedicated for gathering user activities data.
 
 Responsibilities: 
- * Leading a team of 2 developers.
- * Architect, develop and maintain Ruby on Rails web application.
- * Was responsible for architecting and developing web app for first Moscow mathematical olympiad using Ember.js and Ruby on Rails. 
+  * Leading a team of 2 developers.
+  * Architect, develop and maintain Ruby on Rails web application.
+  * Was responsible for architecting and developing web app for first Moscow mathematical olympiad using Ember.js and Ruby on Rails. 
 
 
 #### Ruby developer at [OnLife](http://onlifegroup.com/)
@@ -50,6 +50,7 @@ Backend and frontend for sport platform.
 
 ##### Backend for mobile applications:
   * [Fallster](https://itunes.apple.com/ru/app/fallster/id728374875?mt=8)
+  * [LIVE Interactive Magazine](https://itunes.apple.com/ru/app/live-interactive-magazine/id865758057?mt=8)
 
 
 Technology focus
@@ -65,7 +66,7 @@ Other: Node.js, Ember.js, Ruby on Rails
 Other
 -----
 
-Speaker at dev conferences: 
+Speaker at dev conferences:
   * [Droidcon 2014](http://ru.droidcon.com/2014/rapid-mobile-apps-development/)
 
 I'm the co-organizer of [WeMakeWeb community](http://www.meetup.com/WeMakeWeb/).
@@ -75,3 +76,10 @@ I'm the co-organizer of [WeMakeWeb community](http://www.meetup.com/WeMakeWeb/).
 Hack-a-phone hackathon additional [prize winner](http://hackaphone.ru/city/moscow-final/).
 
 I'm a Google IO 2014 participant as a distinguished developer.
+
+
+Contact information
+----------
+Skype: artemii733
+
+Phone Number: 1 (323) 594-7536
