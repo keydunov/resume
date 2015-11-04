@@ -1,40 +1,51 @@
 Artyom Keydunov
 ===============
 
-Ruby/JS developer
+Ruby/JS Developer
 --------------
 
-Looking for an opportunity to work with a world class team, build great products and always be learning.  
+__Skype__: artemii733   
+__Email__: artyom.keydunov@gmail.com    
+__Github__: [github.com/keydunov](http://github.com/keydunov)   
+__LinkedIn__: [linkedin.com/in/keydunov](http://linkedin.com/in/keydunov)
 
-You can find some of my work on Github at: [https://github.com/keydunov](https://github.com/keydunov)      
 
-
-Professional experience
+Professional Experience
 ----------------------
 
-#### Ruby/Javascript developer at [Uchi.ru](http://uchi.ru/)
+#### Senior Ruby Developer at [HappyNumbers](http://happynumbers.com)
 __March 2013 - Present__   
-Lead developer for [HappyNumbers](http://happynumbers.com/).
-Technologies used include Ruby on Rails for web-application, 
-NodeJS for high load service dedicated for gathering user activities data.
+Fullstack Developer, responsibilities:
+ 
+  * Lead a team of 2 developers.
+  * Responsible for designing, developing and scaling Ruby on Rails web application.
+  * Implement upgrades, patches, code releases, and database changes.
+  * Participate in requirement gathering, analysis and technical architecture design. 
+  * Coordinate with engineers in remote locations.
+  * Design and develop web app for first Moscow mathematical olympiad using Ember.js and Ruby on Rails. 
 
-Responsibilities: 
-  * Leading a team of 2 developers.
-  * Architect, develop and maintain Ruby on Rails web application.
-  * Was responsible for architecting and developing web app for first Moscow mathematical olympiad using Ember.js and Ruby on Rails. 
 
-
-#### Ruby developer at [OnLife](http://onlifegroup.com/)
+#### Ruby Developer at [OnLife](http://onlifegroup.com/)
 __August 2012 - March 2013__   
-Back-end developer.   
-Technologies used include Goliath, EventMachine, Grape, Redis, MongoDB, AMQP, Faye.
-Primary focus was to built highload service-oriented architecture system.
-Responsibilities include architecting and developing service in SOA, such as messaging service, file upload service, services to communicate with external APIs.
-All services were built with EventMachine (Ruby implemention of Pattern Reactor) 
+Back-end Developer, responsibilities:
+  
+* Worked with following technologies: Goliath, EventMachine, Grape, Redis, MongoDB, AMQP, Faye.
+* Built highload service-oriented architecture system.
+* Designed and developed messaging service, file upload service and payment processing service.
 
+Side Projects
+---------------------------
 
-#### Freelance, various projescts
-__September 2011 - August 2012__  
+__[Lotshot](http://www.lotshot.io)__   
+Lotshot hosts ready to use tech researches, curated by experts.
+Technical co-founder, responsible for full development cycle.
+
+__[SnowmanIO](http://www.snowman.io)__   
+Opensource monitoring tool, collects metrics and schedule alerts.   
+Backend built with Ruby/Go, frontend: EmberJS.   
+
+__[Inche](http://inche.b1nary.io/)__   
+iOS application, simple and effective unit converter.
 
 __[MBAR](http://www.mbar.ru)__   
 Developed, deployed and maintained e-commerce website, php with bitrix cms.
@@ -42,44 +53,22 @@ Developed, deployed and maintained e-commerce website, php with bitrix cms.
 __[Nakover](http://nakover.ru/)__   
 Ruby on Rails e-commerce web application
 
-__[Buyforlike](http://www.buyforlike.com)__  
+__[Buyforlike](http://www.buyforlike.com)__   
 Full stack developer responsible for development and maintaince Ruby on Rails application.   
 
 __[Bodyroom](http://www.bodyroom.com)__   
-Backend and frontend for sport platform.
+Fullstack ruby on rails developer.
 
 ##### Backend for mobile applications:
   * [Fallster](https://itunes.apple.com/ru/app/fallster/id728374875?mt=8)
   * [LIVE Interactive Magazine](https://itunes.apple.com/ru/app/live-interactive-magazine/id865758057?mt=8)
 
 
-Technology focus
+Technology Focus
 ----------------
-Programming languages: Ruby, Javascript   
+Programming languages: Ruby, Javascript, Objective-C, Go, C++
 Operating Systems: Linux (Debian, Ubuntu), Mac OS X      
 Programming Editor: Vim     
 Source Code Control: Git     
 Databases: PostgreSQL, Redis, MongoDB     
 Other: Node.js, Ember.js, Ruby on Rails   
-
-
-Other
------
-
-Speaker at dev conferences:
-  * [Droidcon 2014](http://ru.droidcon.com/2014/rapid-mobile-apps-development/)
-
-I'm the co-organizer of [WeMakeWeb community](http://www.meetup.com/WeMakeWeb/).
-
-[Apps4all hackathon absolute winner, awarded by Google, Intel and Microsoft](http://habrahabr.ru/post/206500/).
-
-Hack-a-phone hackathon additional [prize winner](http://hackaphone.ru/city/moscow-final/).
-
-I'm a Google IO 2014 participant as a distinguished developer.
-
-
-Contact information
-----------
-Skype: artemii733
-
-Phone Number: 1 (323) 594-7536
